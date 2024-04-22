@@ -1,50 +1,29 @@
 {
-    //--- Muffins ---
-    //Title
-    "19720": "Split in half",
-    "19464": "with your thumb.",
-    //Comment
-    "19816": "Be sure not to",
-    "19836": "twist it!",
-
-    //Title
-    "19560": "Line them up",
-    "19736": "with the spatula.",
-    //Comment
-    "19608": "Crown in front.",
-    "19504": "Heel in back.",
-
-    //Title
-    "19528": "Put them in",
-    "19472": "the toaster.",
-    //Comment
-    "19576": "Please put them",
-    "19688": "in the toaster.",
-
-    //Title
-    "19776": "Prepare the tray.",
-    //Comment
-    "19516": "Prepare the",
-    "19492": "UHC tray.",
-
-    //Title
-    "19796": "Spray them",
-    "19544": "after removing.",
-    //Comment
-    "19856": "Spray them 3 times.",
-    "19704": "Spray them evenly.",
-
-    //Title
-    "19756": "Put the crown",
-    "19624": "on top of heel.",
-    //Comment
-    "19876": "Put them so the",
-    "19592": "toasted side faces up.",
-    
-    //Title
-    "19672": "Press the timer",
-    "19480": "and store them.",
-    //Comment
-    "19640": "The holding",
-    "19656": "time is 20m."
+    "19464": "を割る",
+    "19472": "入れる",
+    "19480": "保管する",
+    "19492": "準備します",
+    "19504": "ヒールは奥",
+    "19516": "UHCトレーを",
+    "19528": "トースターに",
+    "19544": "スプレーする",
+    "19560": "スパチュラに",
+    "19576": "トースターに",
+    "19592": "面を上にします",
+    "19608": "クラウンが手前",
+    "19624": "を重ねて入れる",
+    "19640": "ホールディング",
+    "19656": "タイムは２０分",
+    "19672": "タイマーを押し",
+    "19688": "入れてください",
+    "19704": "スプレーします",
+    "19720": "親指でマフィン",
+    "19736": "マフィンを並べる",
+    "19756": "クラウンとヒール",
+    "19776": "トレーを用意する",
+    "19796": "リムーブしたあと",
+    "19816": "ねじらないように",
+    "19836": "注意してください",
+    "19856": "まんべんなく、３回",
+    "19876": "トースティングした"
 }
