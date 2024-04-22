@@ -1,7 +1,5 @@
 {
-    "name": "OVERLAY_8",
-    "ram_loc": 35950816,
-    "file_loc": 1379840,
+    "id": 8,
     "length": 8032,
     "strings": []
 }

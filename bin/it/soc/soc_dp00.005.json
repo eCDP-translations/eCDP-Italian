@@ -1,5 +1,11 @@
 [
+<<<<<<< HEAD:bin/it/soc/soc_dp00.005.json
     "お客様が期待すること\n■アツアツで\n　　フレッシュ\n■外はカリカリ\n■ゴールデンブラウン",
     "フライヤー\n■温度　182℃\n■時間　2分45秒±5秒",
     "手は洗ったか？\n■McDハンドソープ\n　　を使い、正しい手順\n　　で洗い、ペーパータ\n　　オルで拭いて乾かす"
+=======
+    "Customers Want...\n■Hot & Fresh\n■Crispy Outside\n■Golden Brown",
+    "Frier\n■Temperature:\n182°C/360°F\n■Time: 2m 45s ± 5s",
+    "Washed Your Hands?\n■Use McDonald's\nhand soap. Wash\nproperly. Dry with\na paper towel."
+>>>>>>> 26ae302e129f9c0fb6450a72d892dd12175fb66f:bin/en/soc/soc_dp00.005.json
 ]

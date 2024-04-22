@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD:overlay/it/OVERLAY_4.json
     "1066528": "うーん残念…マックシェイクを",
     "1068580": "１０問のクイズに挑戦！",
     "1069852": "クイズのコースを選んでください",
@@ -15,3 +16,12 @@
     "1080192": "マクドナルドでは、どんなチーズを使っているか？",
     "1084492": "食品を取り扱うときには、清潔と何に注意する必要があるか？"
 }
+=======
+    "112676": "Take a 10-Question Quiz!",
+    "113948": "  Please choose a quiz course.",
+    "113980": " McDonald's Trivia",
+    "114004": "       Food Safety Quiz",
+    "114036": "    Aim for 100 points!",
+    "114068": "How many can you get right?"
+}
+>>>>>>> 26ae302e129f9c0fb6450a72d892dd12175fb66f:overlay/en/OVERLAY_4.json

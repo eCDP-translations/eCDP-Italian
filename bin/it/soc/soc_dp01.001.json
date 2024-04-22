@@ -1,4 +1,5 @@
 [
+<<<<<<< HEAD:bin/it/soc/soc_dp01.001.json
     "お客様への礼儀\n■お客様のニーズを見つける",
     "お客様への礼儀\n■礼儀正しさと思いやりは、商品の価格\n　　に含まれている",
     "店内の清掃\n■清掃用具に関しての\n　　詳細は、「C&Sガイド」\n　　を参照する",
@@ -7,4 +8,14 @@
     "店内の清掃\n■ナプキン、灰皿をストックする",
     "店内の清掃\n■客席を清掃する",
     "窓とドアの清掃\n■窓とドアの清掃に関\n　　しての詳細は、「C&S\n　　ガイド」を参照する"
+=======
+    "Courtesy to Customers\n■Try your best to find what\nthe customer needs.",
+    "Courtesy to Customers\n■The prices of the food are\ncreated with consideration\nfor the customer.",
+    "Cleaning the Store\n■For details on the\ncleaning tools, \nrefer to the \"C&S\nGuide\".",
+    "Cleaning the Store\n■Check the trash can in the\ntray bin and compress or\nempty it if needed.",
+    "Cleaning the Store\n■When you mop the floor, put\nthe wet floor sign out to let\ncustomers know to be careful.",
+    "Cleaning the Store\n■Stock up the napkins and the\nashtrays.",
+    "Cleaning the Store\n■Clean up the seats.",
+    "Cleaning Windows & Doors\n■For details on\ncleaning the doors\nand windows, refer\nto the \"C&S Guide\"."
+>>>>>>> 26ae302e129f9c0fb6450a72d892dd12175fb66f:bin/en/soc/soc_dp01.001.json
 ]

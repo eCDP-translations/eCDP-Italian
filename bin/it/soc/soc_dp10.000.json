@@ -1,8 +1,17 @@
 [
+<<<<<<< HEAD:bin/it/soc/soc_dp10.000.json
     "お客様が期待すること\n■スピーディー\n■正確な取り揃え\n■フレンドリーな応対",
     "確認事項\n■ストックレベル\n■ドライブスルーの目標\n■実施中のプロモーション\n■プロモーション商品\n■ハッピーセットのおもちゃ",
     "手は洗ったか？\n■McDハンドソープ\n　　を使い、正しい手順\n　　で洗い、ペーパータ\n　　オルで拭いて乾かす",
     "90秒以内\n■お客様に挨拶してから商品を手\n　　渡すまで",
     "45秒以内\n■お客様の車がキャッシングブースに止\n　　まってから商品を手渡すまで",
     "3分30秒以内\n■お客様の車が並んでから商品を手渡\n　　すまで"
+=======
+    "Customer's Expectations\n■Speedy\n■Accurately\nAssembled\n■Friendly\nService",
+    "Materials Checklist\n■Stock Levels\n■Drive-Thru Goals\n■On-Going Promotions\n■Promotional Products\n■Happy Meal Toys",
+    "Washed Your Hands?\n■Use McDonald's\nhand soap. Wash\nproperly. Dry with\na paper towel.",
+    "Within 90s\n■From first greeting the\ncustomer to handing over the\nfinished order, it should\ntake less than 90s.",
+    "Within 45s\n■From the time the customer's\ncar stops at the cashing\nbooth until the product is\nhanded over.",
+    "Within 3m 30s\n■From the time the customer's\ncar enters the line until\nthey get their finished order,\nit should take less than 3m\n30s."
+>>>>>>> 26ae302e129f9c0fb6450a72d892dd12175fb66f:bin/en/soc/soc_dp10.000.json
 ]

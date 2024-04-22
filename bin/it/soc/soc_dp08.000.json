@@ -1,4 +1,5 @@
 [
+<<<<<<< HEAD:bin/it/soc/soc_dp08.000.json
     "お客様が期待すること\n■アツアツ\n■新鮮な風味\n■外側はカリカリ\n　　内側はしっとり\n■正しい調理",
     "フライヤー温度の設定\n■チキンプロダクト・パイ\n　　182℃\n■フィッシュプロダクト\n　　166℃",
     "クッキングタイムの設定\n■3分30秒±5秒\n　　ナゲット、チキンプロダクト\n■3分35秒±5秒\n　　フィッシュ、シュリンプポーション",
@@ -10,4 +11,17 @@
     "クォリティ\n■オイルレベルの確認をする",
     "クォリティ\n■ホットホールディングを守る",
     "クォリティ\n■調理前の衣の取り扱いに注意する"
+=======
+    "Customer's Expectations\n■Piping Hot\n■Fresh Flavour\n■Crispy Outside\n■Soft Inside\n■Make Correctly",
+    "Frier Temperature\n■Chicken/Pies: 182°C/360°F\n■Fish: 166°C/331°F",
+    "Cooking Times\n■Chicken: 3m 30s ± 5s\n■Fish/Shrimp: 3m 35s ± 5s",
+    "Cooking Times\n■Apple Pie: 5m 55s ± 7s",
+    "Washed Your Hands?\n■Use McDonald's\nhand soap. Wash\nproperly. Dry with\na paper towel.",
+    "Stock Checking\n■Determine how much\nstock you need by\nusing the UHC chart.",
+    "Safety\n■Be careful not to get burned\nwhile cooking with the frier.\n■Avoid hot oil splashing on\nyou or touching your skin.",
+    "Quality\n■Cook similar products in the\nsame vat (fish with fish,\nchicken with chicken, etc.).",
+    "Quality\n■Check the oil levels often.",
+    "Quality\n■Protect hot holding.",
+    "Quality\n■Be careful with handling the\nbatter before cooking it."
+>>>>>>> 26ae302e129f9c0fb6450a72d892dd12175fb66f:bin/en/soc/soc_dp08.000.json
 ]

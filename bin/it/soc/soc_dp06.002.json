@@ -1,4 +1,5 @@
 [
+<<<<<<< HEAD:bin/it/soc/soc_dp06.002.json
     "お客様が期待すること\n　　(アッセンブル)\n■新鮮な食材\n■正しくアッセンブル\n　　されたサンドイッチ",
     "エッグマックマフィン\n■アッセンブル完成図",
     "手順\n■ラッピングペーパーを用意する",
@@ -7,4 +8,14 @@
     "手順\n■UHCからカナディ\n　　アンベーコンを1枚\n　　のせる",
     "手順\n■クラウンをのせる",
     "手順\n■プロダクトをギフトラッピングして\n　　HLZに滑らせる"
+=======
+    "Customer's Expectations\n(Assembly)\n■Fresh Ingredients\n■Correct Assembly",
+    "Egg McMuffin\n■This shows a\ncorrectly made\nEgg McMuffin.",
+    "Procedure\n■Prepare the wrapper first. Put\nthe heel of the English muffin\non it.",
+    "Procedure\n■Put a slice\nof cheese on\ntop.",
+    "Procedure\n■Now put on\na round egg\nfrom the UHC.",
+    "Procedure\n■Next put on\na piece of\nCanadian bacon\nfrom the UHC.",
+    "Procedure\n■Finally, put\non the crown.",
+    "Procedure\n■Wrap the finished product in\nthe wrapper and slide it down\nthe HLZ."
+>>>>>>> 26ae302e129f9c0fb6450a72d892dd12175fb66f:bin/en/soc/soc_dp06.002.json
 ]

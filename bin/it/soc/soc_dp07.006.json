@@ -1,4 +1,5 @@
 [
+<<<<<<< HEAD:bin/it/soc/soc_dp07.006.json
     "フィレオフィッシュ\n■アッセンブル完成図",
     "手順\n■スチームされたレギュラーバンズを専\n　　用ラップに置く",
     "手順\n■クラウンにタルタル\n　　ソースを1ショット打\n　　つ",
@@ -6,4 +7,13 @@
     "手順\n■スライスチーズを1枚\n　　のせる",
     "手順\n■準備のできたクラウ\n　　ンにヒールをのせる",
     "手順\n■サンドイッチをラッピングして、HLZに\n　　滑らせる"
+=======
+    "Filet-O-Fish\n■This is a\ndrawing that\nshows the\ncompleted\nsandwich.",
+    "Procedure\n■Place the steamed regular\nbuns on the special wrapper.",
+    "Procedure\n■Hit the crown\nwith a shot of\ntartar sauce.",
+    "Procedure\n■Put down a\nfish portion\nfrom the UHC.",
+    "Procedure\n■Put one slice\nof cheese on\ntop.",
+    "Procedure\n■Put the heel\non the fully\nassembled\ncrown.",
+    "Procedure\n■Wrap the assembled sandwich\nand slide it down the HLZ."
+>>>>>>> 26ae302e129f9c0fb6450a72d892dd12175fb66f:bin/en/soc/soc_dp07.006.json
 ]
