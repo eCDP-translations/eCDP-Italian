@@ -1,5 +1,4 @@
 [
-<<<<<<< HEAD:bin/it/soc/soc_dp04.000.json
     "お客様が期待すること\n■アツアツ\n■ジューシー\n■正しく焼成",
     "準備\n■冷凍ソーセージパティは完全に加熱し\n　　ていない資材のため、食中毒菌に汚染\n　　されている可能性がある",
     "グリルの温度設定\n■プラテン　218℃\n■グリル　　　177℃",
@@ -7,13 +6,4 @@
     "セッティングの変更\n■フロントグリルパネルの設定を確認す\n　る",
     "手は洗ったか？\n■McDハンドソープ\n　　を使い、正しい手順\n　　で洗い、ペーパータ\n　　オルで拭いて乾かす",
     "ストックの確認\n■UHCチャートを参照\n　　して、ストック量を決\n　　める"
-=======
-    "Customer's Expectations\n■Piping Hot\n■Juicy\n■Correctly Baked",
-    "Caution!\n■Frozen sausage patties could\nbe contaminated with bacteria\nbecause they are not completely\ncooked.",
-    "Grill Temperature\n■Platen: 218°C/424°F\n■Grill: 177°C/351°F",
-    "Cooking Time Settings\n■Sausage Patty: 82s",
-    "Changing Settings\n■You can adjust the settings\non the front grill panel.",
-    "Washed Your Hands?\n■Use McDonald's\nhand soap. Wash\nproperly. Dry with\na paper towel.",
-    "Stock Checking\n■Determine how much\nstock you need by\nusing the UHC chart."
->>>>>>> 26ae302e129f9c0fb6450a72d892dd12175fb66f:bin/en/soc/soc_dp04.000.json
 ]

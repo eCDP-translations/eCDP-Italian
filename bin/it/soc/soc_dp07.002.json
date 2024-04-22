@@ -1,5 +1,4 @@
 [
-<<<<<<< HEAD:bin/it/soc/soc_dp07.002.json
     "お客様が期待すること\n■アツアツ\n■むらなくトースト\n　　されている\n■つぶれていない",
     "プレップ\n■機器のセッティングをチェック\n■バンズウエストBOXを準備",
     "手は洗ったか？\n■McDハンドソープ\n　　を使い、正しい手順\n　　で洗い、ペーパータ\n　　オルで拭いて乾かす",
@@ -12,18 +11,4 @@
     "バンズのスチーム②\n■スパチュラをスチーマーに入れ、スタ\n　　ートボタンを押す\n■ラップまたはBOXを取り出す\n■タイマーが鳴ったら、スパチュラを引\n　　いてバンズを取り出す",
     "バンズのスチーム③\n■アッセンブラーが前のオーダーをドレ\n　　スしている場合は、イニシエーターがサ\n　　ンドイッチのドレスを始める",
     "バンズのスチーム④\n■アッセンブラーがサンドイッチを引き\n　　取ったら、オーダーをバンプする"
-=======
-    "What Customers Want\n■Piping Hot\n■Evenly Toasted\n■Not Squished",
-    "Prep\n■Check the device settings.\n■Prepare a Bun Trash Box.",
-    "Washed Your Hands?\n■Use McDonald's\nhand soap. Wash\nproperly. Dry with\na paper towel.",
-    "Toasting Buns: ①\n■Choose correct\nbuns, put them in\ntoaster and take\nout wrapper and\nbox.",
-    "Toasting Buns: ②\n■Grilled orders get\na grill sticker\ntoo.",
-    "Toasting Buns: ③\n■When done, put\nthe buns on the\nplastic wrapper\nor in the box.",
-    "Toasting Buns: ④\n■If the assembler dressed the\nprevious order, the initiator\nstarts dressing the sandwich.",
-    "Toasting Buns: ⑤\n■Bump the order when the\nassembler picks up the sandwich.",
-    "Steamed Buns: ①\n■Choose correct\nbuns and put 1-2\non the steamer\ntray.",
-    "Steamed Buns: ②\n■Put the steamer tray into the\nsteamer and press start button.\n■Take out wrapper or box.\n■When the timer rings, pull out\nthe steamer tray and remove buns.",
-    "Steamed Buns: ③\n■If the assembler dressed the\nprevious order, the initiator\nstarts dressing the sandwich.",
-    "Steamed Buns: ④\n■Bump the order when the\nassembler picks up the sandwich."
->>>>>>> 26ae302e129f9c0fb6450a72d892dd12175fb66f:bin/en/soc/soc_dp07.002.json
 ]

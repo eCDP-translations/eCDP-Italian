@@ -1,5 +1,4 @@
 [
-<<<<<<< HEAD:bin/it/soc/soc_dp03.001.json
     "お客様が期待すること\n■正しい調理\n■形がくずれていない\n■温かく、しっとりして\n　　いる",
     "エッグクッカーの温度と時間\n■132〜138℃\n■スタンダード2分\n■エクステンド\n　　2分30秒",
     "調理\n■クッキングスプレー\n　　オイルをスプレーする",
@@ -11,17 +10,4 @@
     "調理\n■エッグをエッグクッ\n　　カーからリムーブす\n　　る",
     "調理\n■UHCに入れて、タイマーを押す",
     "調理\n■エッグクッカーを清掃して片付ける"
-=======
-    "Customer's Expectations\n■Correctly Cooked\n■Holds its shape\n■Warm & Moist",
-    "Egg Cooker Temp. & Time\n■132°C-138°C/\n270°F-280°F\n■Standard: 2m\n■Extended:\n2m 30s",
-    "Cooking\n■Spray the cooking\noil onto the egg\ncooker.",
-    "Cooking\n■Crack the eggs\none by one into\nthe centre of\neach ring.",
-    "Cooking\n■Wipe your hands with\nantibacterial wet\nwipes to prevent\ncross-contamination.",
-    "Cooking\n■Twist the egg\nyolk with the\nyellow Hutzler\nspatula as\nshown.",
-    "Cooking\n■Cover the egg rings\nand set the timer\nwhile pouring room\ntemperature water\ninto the funnel.",
-    "Cooking\n■Prepare a UHC tray\nwith a clean liner.",
-    "Cooking\n■Remove the eggs\nfrom the egg\ncooker.",
-    "Cooking\n■Put the tray in the UHC\nand press the timer.",
-    "Cooking\n■Clean and put away the egg\ncooker."
->>>>>>> 26ae302e129f9c0fb6450a72d892dd12175fb66f:bin/en/soc/soc_dp03.001.json
 ]

@@ -1,5 +1,4 @@
 [
-<<<<<<< HEAD:bin/it/soc/soc_dp06.001.json
     "ローテーション\n■原材料を保管すると\n　　きは正しいローテー\n　　ション手順に従う",
     "プレップテーブル\n■プレップテーブルのスイッチが入って\n　　いることを確認する",
     "セカンダリーシェルフライフ\n■各原材料のプレップテーブルでのセカ\n　　ンダリーシェルフライフは何時間か？",
@@ -10,16 +9,4 @@
     "UHCのホールディングタイム\n■プロダクトの調理にホールディングタ\n　　イム内の原材料しか使えないのはなぜ\n　　か？",
     "UHCのホールディングタイム\n■各原材料のUHC内のホールディング\n　　タイムは？",
     "UHCのホールディングタイム\n■ミート、フライプロダクト、エッグは\n　　60℃以上の温度で保管する"
-=======
-    "Rotation\n■Follow rotation\nprocedures when\nstoring raw\ningredients.",
-    "The Prep Table\n■Make sure the prep table is\nturned on.",
-    "Secondary Shelf Life\n■What is the secondary shelf\nlife of each ingredient?",
-    "Tempering Sauces\n■This means to return hot sauce\nto room temperature. It is\nimportant to temper the sauce\ncorrectly to maintain a high\nquality sandwich.",
-    "Tempering Sauces\n■Put a day-of-\nthe-week\nsticker inside\nthe dotted line.",
-    "Shelf Life\n■Keep track of\nsecondary shelf\nlives of food\nitems.",
-    "Rotation\n■How are the prep\ntable ingredients\nrotated?",
-    "UHC Holding Time\n■Why can I only use the raw\ningredients within their\nholding time?",
-    "UHC Holding Time\n■What is the holding time in\nthe UHC for each ingredient?",
-    "UHC Holding Time\n■Store meat, fried food, and\neggs at temperatures of at\nleast 60°C/140°F."
->>>>>>> 26ae302e129f9c0fb6450a72d892dd12175fb66f:bin/en/soc/soc_dp06.001.json
 ]

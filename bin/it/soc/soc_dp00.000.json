@@ -1,13 +1,6 @@
 [
-<<<<<<< HEAD:bin/it/soc/soc_dp00.000.json
     "お客様が期待すること\n■アツアツで\n　　フレッシュ\n■程よい塩加減\n■フルバッグ",
     "フライヤー\n■温度　168℃\n■時間　2分55秒±5秒\n　　フルバット使用時",
     "ポテトの種類と重量\n(バッグ込み)\n■Sサイズ:75g\n■Mサイズ:143g\n■Lサイズ:181g",
     "手は洗ったか？\n■McDハンドソープ\n　　を使い、正しい手順\n　　で洗い、ペーパータ\n　　オルで拭いて乾かす"
-=======
-    "What Customers Want\n■Fresh & Piping Hot\n■Salted Just Right\n■A Full Bag",
-    "Frier\n■Temperature: 168°C/334°F\n■Time:　2m 55s ± 5s\n　　with a full vat",
-    "Fries Size & Weight\n(Including the bag)\n■Small: 75g/2.6oz\n■Medium: 143g/5oz\n■Large: 181g/6.3oz",
-    "Did you wash your hands?\n■Use McDonald's\nhand wipes. Wash\nhands correctly\nand dry with a\npaper towel."
->>>>>>> 26ae302e129f9c0fb6450a72d892dd12175fb66f:bin/en/soc/soc_dp00.000.json
 ]

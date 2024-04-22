@@ -1,5 +1,4 @@
 [
-<<<<<<< HEAD:bin/it/soc/soc_dp05.000.json
     "お客様が期待すること\n■アツアツ\n■ジューシー\n■正しく焼成",
     "グリルの温度設定\n■プラテン　218℃\n■グリル　　　177℃",
     "クッキングタイムの設定\n■10:1パティの目安　　　　　38秒\n■てりやきパティの目安　80秒\n■4:1パティの目安\n　　マネージャーに確認",
@@ -7,13 +6,4 @@
     "手は洗ったか？\n■McDハンドソープ\n　　を使い、正しい手順\n　　で洗い、ペーパータ\n　　オルで拭いて乾かす",
     "ストックの確認\n■UHCチャートを参照\n　　して、ストック量を決\n　　める",
     "10:1パティ\n■10:1パティはピンク色で、1枚ずつ簡単\n　　に離すことができる"
-=======
-    "Customer's Expectations\n■Piping Hot\n■Juicy\n■Correctly Baked",
-    "Grill Temperature\n■Platen: 218°C/424°F\n■Grill: 177°C/351°F",
-    "Cooking Time Settings\n■1/10th Patty: 38s\n■Teriyaki Patty: 80s\n■1/4th Patty:\nCheck with your manager",
-    "Changing Settings\n■You can adjust the settings\non the front grill panel.",
-    "Washed Your Hands?\n■Use McDonald's\nhand soap. Wash\nproperly. Dry with\na paper towel.",
-    "Stock Checking\n■Determine how much\nstock you need by\nusing the UHC chart.",
-    "1/10th Patty\n■The 1/10th patties are pink and\neasily separated into single\nunits."
->>>>>>> 26ae302e129f9c0fb6450a72d892dd12175fb66f:bin/en/soc/soc_dp05.000.json
 ]
