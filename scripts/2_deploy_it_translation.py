@@ -19,19 +19,20 @@ def convert_dict_to_list(filepath):
         data = json.load(f)
     if isinstance(data, dict):
         data = list(data.values())
-    with open(filepath, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=4)
+
+    with open(filepath, "wb") as f:
+        f.write(json.dumps(data, ensure_ascii=False, indent=4).encode("utf-8"))
 
 os.chdir("..")
 
-# execute git clone if not exists
-if not os.path.exists("ecdp-base"):
-    # branch feature/pontoon
-    os.system("git clone https://github.com/eCDP-translations/eCDP-Italian-pontoon.git ecdp-base")
+# # execute git clone if not exists
+# if not os.path.exists("ecdp-base"):
+#     # branch feature/pontoon
+#     os.system("git clone https://github.com/eCDP-translations/eCDP-Italian-pontoon.git ecdp-base")
 
-# Copy ecdp.nds to ecdp-base
-if not os.path.exists("ecdp-base" + os.path.sep + "ecdp.nds"):
-    shutil.copy("ecdp.nds", "ecdp-base")
+# # Copy ecdp.nds to ecdp-base
+# if not os.path.exists("ecdp-base" + os.path.sep + "ecdp.nds"):
+#     shutil.copy("ecdp.nds", "ecdp-base")
 
 # load the file "files_to_remove_keys.txt" in a list
 with open("files_to_remove_keys.txt", "r") as f:
@@ -54,34 +55,34 @@ for root, dirs, files in os.walk("it"):
 # make dir if not exists ecdp-base\arm9\it
 # make dir if not exists ecdp-base\bin\it
 # make dir if not exists ecdp-base\overlay\it
-folders = ["arm9", "bin", "overlay"]
-for folder in folders:
-    if not os.path.exists("ecdp-base" + os.path.sep + folder + os.path.sep + "it"):
-        os.mkdir("ecdp-base" + os.path.sep + folder + os.path.sep + "it")
+# folders = ["arm9", "bin", "overlay"]
+# for folder in folders:
+#     if not os.path.exists("ecdp-base" + os.path.sep + folder + os.path.sep + "it"):
+#         os.mkdir("ecdp-base" + os.path.sep + folder + os.path.sep + "it")
 
-for folder in folders:
-    shutil.copytree(
-        "it" + os.path.sep + "locales" + os.path.sep + "ja" + os.path.sep + folder + os.path.sep + "ja",
-        "ecdp-base" + os.path.sep + folder + os.path.sep + "it", dirs_exist_ok=True
-    )
+# for folder in folders:
+#     shutil.copytree(
+#         "it" + os.path.sep + "locales" + os.path.sep + "ja" + os.path.sep + folder + os.path.sep + "ja",
+#         "ecdp-base" + os.path.sep + folder + os.path.sep + "it", dirs_exist_ok=True
+#     )
 
-os.chdir("ecdp-base")
+# os.chdir("ecdp-base")
 
-# FIXME: copy cmcd/en.json to cmcd/it.json -> this is temp and should be removed
-shutil.copy("cmcd" + os.path.sep + "en.json", "cmcd" + os.path.sep + "it.json")
+# # FIXME: copy cmcd/en.json to cmcd/it.json -> this is temp and should be removed
+# shutil.copy("cmcd" + os.path.sep + "en.json", "cmcd" + os.path.sep + "it.json")
 
-# run ecdp-base\patch_all.py ecdp.nds -l it 
-os.system("python patch_all.py ecdp.nds -l it")
+# # run ecdp-base\patch_all.py ecdp.nds -l it 
+# os.system("python patch_all.py ecdp.nds -l it")
 
-##########
-### Clean
-##########
-os.chdir("..")
+# ##########
+# ### Clean
+# ##########
+# os.chdir("..")
 
-# remove it folder
-shutil.rmtree("it")
+# # remove it folder
+# shutil.rmtree("it")
 
-# rename it_bak to it
-os.rename("it_bak", "it")
+# # rename it_bak to it
+# os.rename("it_bak", "it")
 
-os.chdir("scripts")
+# os.chdir("scripts")
