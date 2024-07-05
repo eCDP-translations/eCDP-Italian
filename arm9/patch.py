@@ -138,7 +138,7 @@ def main(lang, rom_data, working_dir):
 
 			if str(sec_addr) in text.keys():
 				new_text = text[str(sec_addr)]
-
+				print("Translating: "+old_text.replace("\n", "\\n")+" to "+new_text.replace("\n", "\\n"))
 				if old_text != new_text:
 					text_sjis = new_text.encode("SHIFT_JIS")
 					new_blen = len(text_sjis)+1

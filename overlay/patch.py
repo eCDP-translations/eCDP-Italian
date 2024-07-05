@@ -140,6 +140,7 @@ def main(lang, rom_data, working_dir):
 				new_text = text[str(ov_addr)]
 
 				if old_text != new_text:
+					print("Translating: "+old_text.replace("\n", "\\n")+" to "+new_text.replace("\n", "\\n"))
 					text_sjis = new_text.encode("SHIFT_JIS")
 					new_blen = len(text_sjis)+1
 					print("Changing: "+old_text.replace("\n", "\\n")+" to "+new_text.replace("\n", "\\n"))
