@@ -36,7 +36,7 @@ os.chdir("..")
 
 # load the file "files_to_remove_keys.txt" in a list
 with open("files_to_remove_keys.txt", "r") as f:
-    files = f.read().splitlines()
+    files_to_remove = f.read().splitlines()
 
 # Copy it folder to it_bak
 shutil.copytree("it", "it_bak", dirs_exist_ok=True)
@@ -45,7 +45,7 @@ for root, dirs, files in os.walk("it"):
     for file in files:
         filepath = os.path.join(root, file)
         
-        if file in files and file.endswith(".json"):
+        if file in files_to_remove and file.endswith(".json"):
             if is_json_dict(filepath):
                 print(f"Removing keys from {filepath}")
                 convert_dict_to_list(filepath)
