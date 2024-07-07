@@ -12,7 +12,7 @@ def is_json_dict(filepath):
         print(f"Error reading file {filepath}: {e}")
         return False
 
-with open("../files_to_remove_keys.txt", "a", encoding="utf-8") as f:
+with open("files_to_remove_keys.txt", "a", encoding="utf-8") as f:
     for root, dirs, files in os.walk("."):
         for file in files:
             if file.endswith(".json"):
