@@ -2,3 +2,5 @@
 */__pycache__
 *.bat
 *.nds
+.venv
+it_bak
