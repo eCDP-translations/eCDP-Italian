@@ -1,14 +1,14 @@
-{
-  "704141": "Patatine Fritte",
-  "127742": "Hash Brown",
-  "412299": "Servizi Igienici",
-  "349073": "Sicurezza alimentare",
-  "506181": "Colazione Classica",
-  "867100": "Colazione di Carne",
-  "702344": "Griglia",
-  "980165": "Attivita' (Colazione)",
-  "977677": "Attivita' (Giorno)",
-  "386119": "Fritti",
-  "27733": "Accoglienza clienti",
-  "759774": "McDrive"
-}
+[
+    "Patatine Fritte",
+    "Hash Brown",
+    "Servizi Igienici",
+    "Sicurezza alimentare",
+    "Colazione Classica",
+    "Colazione di Carne",
+    "Griglia",
+    "Attivita' (Colazione)",
+    "Attivita' (Giorno)",
+    "Fritti",
+    "Accoglienza clienti",
+    "McDrive"
+]
